@@ -1,0 +1,3 @@
+JFreeChart -> http://www.gnu.org/licenses/lgpl.html
+JCommon -> http://www.gnu.org/licenses/lgpl.html
+Jxlayer -> https://opensource.org/licenses/bsd-license.php
