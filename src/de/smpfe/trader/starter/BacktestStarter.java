@@ -45,7 +45,7 @@ public class BacktestStarter
 
 	public static void main(String[] args) 
 	{
-		String dir = "files//eurusd.intra";
+		String dir = "files//testdata5min.intra";
 		Chart chart = new Chart(10000,TimeFrame.MIN5);
 		chart.parseFromFile(new File(dir));
 

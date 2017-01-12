@@ -48,7 +48,7 @@ public class BacktestStarter2
 	public static void main(String[] args) 
 	{
 		//String dir = "files//eurusd2.txt";
-		String dir = "files//MSCIEmergingMarketsEURSTRD.txt";
+		String dir = "files//testdataDaily.txt";
 		
 		Chart chart = new Chart(1000,TimeFrame.DAY);
 		chart.parseFromFileDay(new File(dir));
